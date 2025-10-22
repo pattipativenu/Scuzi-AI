@@ -6,6 +6,10 @@ import.env
 *.key
 *.crt
 
+# Vercel
+.vercel/
+.vercel/.env*
+
 # Build & cache
 node_modules/
 .next/
