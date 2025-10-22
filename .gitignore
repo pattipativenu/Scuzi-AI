@@ -1,0 +1,14 @@
+# Environment & secrets
+.env
+.env.local
+import.env
+*.pem
+*.key
+*.crt
+
+# Build & cache
+node_modules/
+.next/
+dist/
+out/
+.DS_Store
