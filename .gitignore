@@ -12,3 +12,13 @@ node_modules/
 dist/
 out/
 .DS_Store
+
+# Terraform
+infrastructure/.terraform/
+infrastructure/.terraform.lock.hcl
+infrastructure/terraform.tfstate*
+infrastructure/terraform.tfvars
+
+# Database
+local.db
+*.db
