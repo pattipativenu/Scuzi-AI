@@ -1,1 +1,16 @@
-{"projectId":"prj_NdtlBC46C8t8nQkc0bu73sqfK5jw","orgId":"team_m38YmYO27zvcPEggIrkboG1u","projectName":"scuzi-ai-food-health-chat"}
+{
+  "projectId": "prj_NdtlBC46C8t8nQkc0bu73sqfK5jw",
+  "orgId": "team_m38YmYO27zvcPEggIrkboG1u",
+  "projectName": "scuzi-ai-food-health-chat",
+  "settings": {
+    "createdAt": 1760889678035,
+    "framework": "nextjs",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "22.x"
+  }
+}
